@@ -4,7 +4,7 @@ private double branchAngle = .65;
 private int numBranch = (int)(Math.random()*3);
 public void setup() 
 {   
-	size(800,800);    
+	size(900,900);    
 	noLoop(); 
 } 
 public void draw() 
